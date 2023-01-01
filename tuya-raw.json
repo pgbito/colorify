@@ -1,0 +1,72 @@
+{
+    "result": [
+        {
+            "active_time": 1646214685,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1646206095,
+            "icon": "smart/icon/ay1519551146071pEnBd/aac0fa01ca4a85edab5805fbae342d70.png",
+            "id": "1262084540f52024901d",
+            "ip": "186.15.131.159",
+            "lat": "9.9737",
+            "local_key": "8ee4ff2101bcf00e",
+            "lon": "-84.1173",
+            "model": "BT01-T-NEW\uff08SL1\uff09",
+            "name": "bot",
+            "online": true,
+            "owner_id": "52212188",
+            "product_id": "hp6orhaqm6as3jnv",
+            "product_name": "LED Strip Lights",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "colour"
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                },
+                {
+                    "code": "colour_data",
+                    "value": "{\"h\":357.0,\"s\":255.0,\"v\":255.0}"
+                },
+                {
+                    "code": "scene_data",
+                    "value": "{\"h\":0.0,\"s\":0.0,\"v\":0.0}"
+                },
+                {
+                    "code": "flash_scene_1",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":120.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_2",
+                    "value": "{\"bright\":255,\"frequency\":128,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_3",
+                    "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+                },
+                {
+                    "code": "flash_scene_4",
+                    "value": "{\"bright\":0,\"frequency\":5,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":60.0,\"s\":255.0,\"v\":255.0},{\"h\":300.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":0.0,\"v\":0.0}],\"temperature\":255}"
+                }
+            ],
+            "sub": false,
+            "time_zone": "-06:00",
+            "uid": "eu1646214545679CqWuW",
+            "update_time": 1646214706,
+            "uuid": "1262084540f52024901d"
+        }
+    ],
+    "success": true,
+    "t": 1669437446408,
+    "tid": "0724f57b6d4411edadcaa64798946735"
+}
