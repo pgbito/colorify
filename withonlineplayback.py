@@ -3,7 +3,8 @@ import tinytuya
 import time
 from colorsys import rgb_to_hsv
 import os
-os.chdir(os.path.join("M:\\", "mpriscolorify"))
+if os.getlogin()=="pgbit" and os.name == "nt": # ignore this shit 
+  os.chdir(os.path.join("M:\\", "mpriscolorify"))
 
 from colorify import colorify
 d = tinytuya.BulbDevice('1262084540f52024901d',
