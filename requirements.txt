@@ -2,3 +2,4 @@ tinytuya
 requests
 webcolors
 spotipy
+simplejson
